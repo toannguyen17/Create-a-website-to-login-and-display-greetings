@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Create-a-website-to-login-and-display-greetings:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Create_a_website_to_login_and_display_greetings_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Create-a-website-to-login-and-display-greetings/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Create-a-website-to-login-and-display-greetings" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
